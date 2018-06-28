@@ -1,9 +1,8 @@
 {
-  "name": "git-ignore-builder",
+  "name": "cerebro-gitignore-builder",
   "description": "Plugin to generate .gitignore file content from Cerebro.",
   "author": {
-    "name": "Wesley Egberto",
-    "url": ""
+    "name": "Wesley Egberto"
   },
   "repository": {
     "type": "Git",
