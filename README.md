@@ -12,6 +12,11 @@ Example of use:
 `gib linux,node,visualstudiocode`
 
 
+![](screenshot_cerebro_gib.png)
+
+![](screenshot_gitignore_generated.png)
+
+
 ## Installing
 
 * Type `plugins gib` into Cerebro
