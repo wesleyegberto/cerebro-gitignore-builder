@@ -1,5 +1,16 @@
 {
   "name": "git-ignore-builder",
+  "description": "Plugin to generate .gitignore file content from Cerebro.",
+  "author": {
+    "name": "Wesley Egberto",
+    "url": ""
+  },
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/wesleyegberto/cerebro-gitignore-builder"
+  },
+  "license": "MIT",
+  "readme": "README.md",
   "version": "0.1.0",
   "dependencies": {
     "cerebro-tools": "^0.1.8",
@@ -11,7 +22,9 @@
   "main": "dist/index.js",
   "keywords": [
     "cerebro",
-    "cerebro-plugin"
+    "cerebro-plugin",
+    "gitignore",
+    "builder"
   ],
   "scripts": {
     "start": "cerebro-scripts start",

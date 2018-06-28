@@ -23,6 +23,11 @@ Example of use:
 * Click `install
 
 
+## TODOs
+
+* Minify the build
+
+
 ## Related
 
 - [Cerebro](http://github.com/KELiON/cerebro) – main repo for Cerebro app;
