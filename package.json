@@ -1,16 +1,13 @@
 {
   "name": "cerebro-gitignore-builder",
+  "version": "0.1.2",
+  "license": "MIT",
   "description": "Plugin to generate .gitignore file content from Cerebro.",
   "author": {
     "name": "Wesley Egberto"
   },
-  "repository": {
-    "type": "Git",
-    "url": "https://github.com/wesleyegberto/cerebro-gitignore-builder"
-  },
-  "license": "MIT",
+  "repository": "wesleyegberto/cerebro-gitignore-builder",
   "readme": "README.md",
-  "version": "0.1.0",
   "dependencies": {
     "cerebro-tools": "^0.1.8",
     "cerebro-ui": "^0.0.16"
@@ -22,6 +19,8 @@
   "keywords": [
     "cerebro",
     "cerebro-plugin",
+    "cerebro-gitignore-builder",
+    "gitignore.io",
     "gitignore",
     "builder"
   ],
